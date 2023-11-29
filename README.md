@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm tahaclk</h1>
 - 🔭 I’m currently working on **ft_transcendence**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
